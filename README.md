@@ -3,23 +3,19 @@ This project provides examples of implementing machine learning and deep learnin
 
 ## Requirements
 To run the C++ examples, you will need the following libraries installed:
-
 Armadillo mlpack
 dlib
 
 To run the Python examples, you will need the following libraries installed:
-
 NumPy
 scikit-learn
 PyTorch
 
 ## Usage
 To run the machine learning example in C++, navigate to the cpp directory and run the following command: 
+g++ -std=c++11 machine_learning.cpp -o machine_learning && ./machine_learning
 
-g++ -std=c++11 machine_learning.cpp -o machine_learning && ./machine_learningTo run the machine learning 
-
-example in Python, navigate to the python directory and run the following command:
-
+To run the machine learning example in Python, navigate to the python directory and run the following command:
 python machine_learning.py 
 
 To run the deep learning example in C++, navigate to the cpp directory and run 
