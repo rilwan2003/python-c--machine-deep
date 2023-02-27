@@ -13,19 +13,21 @@ PyTorch
 
 ## Usage
 To run the machine learning example in C++, navigate to the cpp directory and run the following command: 
-g++ -std=c++11 machine_learning.cpp -o machine_learning && ./machine_learning
+
+__g++ -std=c++11 machine_learning.cpp -o machine_learning && ./machine_learning__
 
 To run the machine learning example in Python, navigate to the python directory and run the following command:
-python machine_learning.py 
+
+__python machine_learning.py__
 
 To run the deep learning example in C++, navigate to the cpp directory and run 
 the following command: 
 
-g++ -std=c++11 deep_learning.cpp -o deep_learning && ./deep_learning                            
+__g++ -std=c++11 deep_learning.cpp -o deep_learning && ./deep_learning__                            
 
 To run the deep learning example in Python, navigate to the python directory and run the following command:
 
-python deep_learning.py                     
+__python deep_learning.py__                    
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
