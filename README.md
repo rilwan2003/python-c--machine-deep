@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning Examples in C++ and Python
+# Machine Learning and Deep Learning in C++ and Python
 This project provides examples of implementing machine learning and deep learning models in C++ and Python. The goal is to demonstrate the similarities and differences in syntax and style between the two languages and to provide a starting point for developers who want to implement machine learning and deep learning models in C++ or Python.
 
 ## Requirements
