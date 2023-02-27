@@ -3,8 +3,8 @@ This project provides examples of implementing machine learning and deep learnin
 
 ## Requirements
 To run the C++ examples, you will need the following libraries installed:
-Armadillo mlpack
-dlib
+-Armadillo mlpack
+-dlib
 
 To run the Python examples, you will need the following libraries installed:
 NumPy
